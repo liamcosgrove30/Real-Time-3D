@@ -1,0 +1,23 @@
+﻿  rt3dObjLoader.cpp
+f:\3d real time\coursework\final project\group2project - (final version)\group2project\rt3dobjloader.cpp(197): warning C4018: '<': signed/unsigned mismatch
+f:\3d real time\coursework\final project\group2project - (final version)\group2project\rt3dobjloader.cpp(135): warning C4101: 'z': unreferenced local variable
+f:\3d real time\coursework\final project\group2project - (final version)\group2project\rt3dobjloader.cpp(135): warning C4101: 'y': unreferenced local variable
+f:\3d real time\coursework\final project\group2project - (final version)\group2project\rt3dobjloader.cpp(135): warning C4101: 'x': unreferenced local variable
+  rt3d.cpp
+  rotatingCube.cpp
+  md2model.cpp
+f:\3d real time\coursework\final project\group2project - (final version)\group2project\md2model.cpp(106): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+f:\3d real time\coursework\final project\group2project - (final version)\group2project\md2model.cpp(176): warning C4101: 'v': unreferenced local variable
+f:\3d real time\coursework\final project\group2project - (final version)\group2project\md2model.cpp(175): warning C4101: 's': unreferenced local variable
+f:\3d real time\coursework\final project\group2project - (final version)\group2project\md2model.cpp(176): warning C4101: 'norm': unreferenced local variable
+f:\3d real time\coursework\final project\group2project - (final version)\group2project\md2model.cpp(175): warning C4101: 't': unreferenced local variable
+f:\3d real time\coursework\final project\group2project - (final version)\group2project\md2model.cpp(338): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+f:\3d real time\coursework\final project\group2project - (final version)\group2project\main.cpp(600): warning C4305: 'argument': truncation from 'double' to 'float'
+f:\3d real time\coursework\final project\group2project - (final version)\group2project\main.cpp(686): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+f:\3d real time\coursework\final project\group2project - (final version)\group2project\main.cpp(691): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+main.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Group2Project.vcxproj -> F:\3D Real Time\Coursework\Final Project\Group2Project - (Final Version)\Debug\Group2Project.exe
+  Group2Project.vcxproj -> F:\3D Real Time\Coursework\Final Project\Group2Project - (Final Version)\Debug\Group2Project.pdb (Partial PDB)
